@@ -1,0 +1,29 @@
+/* body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  #game-status {
+    margin-top: 20px;
+  }
+  
+  #message {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  #key {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  #new-game {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  } */
+body{
+    display: flex;
+    flex-direction: column;
+}  
